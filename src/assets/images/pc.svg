@@ -1,0 +1,26 @@
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    overflow="hidden">
+    <defs>
+        <clipPath id="clip0">
+            <path d="M135 146 256 146 256 267 135 267Z" fill-rule="evenodd" clip-rule="evenodd" />
+        </clipPath>
+        <image width="325" height="748"
+            xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUUAAALsCAMAAABDUVXUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABjUExURQAAAN/f39/f39XV1dfX19nZ2dra2tbW1tfX19jY2NnZ2dnZ2dfX19jY2NjY2NnZ2dnZ2dnZ2dra2tra2tra2tnZ2dnZ2dnZ2dra2tra2tnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2c2h9RYAAAAgdFJOUwAIEBggKDA4QEhQWGBocHiAh4+Xn6evt7/Hz9ff5+/3v+H4wgAAAAlwSFlzAAAOwwAADsMBx2+oZAAAAwNJREFUeF7t2ct24jgUBVAwBCfEIU4gQHjq/7+y/bihq3rQC4kM9x7gK2l2liVLYkKh6ccsKorVx7SIcvIcT/JMP1JKP+E16yjIs+tCTM1YV+fDWJBruU9pu93vT32c1+gk29Pm2uXXrp6fq+ihxKw9p2XUPKBpowAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHjYNJ48oNlHQbm3lJooKdWmlC6zaFCmDzGlr8lkvttX0Ueuavl57GJ8/bimdPCZecDs9Sul69erEB+zTddbhJUwy9TdnH6OujocX6Iky6FLcT2W81NX7+ZjgwzdjjGl8zCRhxC7RXI1DJBh0fYvYz+PF+chxJTacYQsi5Q23e8lQrytkmTpv9L1LcRL9JKnexnX3cY7bKOX+zX9kriNAAeuJ7LNLtcuxn7PeGOnk23TxdbEtcToFCPcbXwJ3/9dFFP6jCHu1u8V/2MZQ9ytue1vxnNLd3JxH5Gv6hfGLsNmErPa/zBF6mM69LM4Xsb3sZdc9fB7SuemO0kvhgaFtqvp5DWdo8UDvjdR8ICF4x8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP+reoqirqKgwOm7mXaPVUrnXfsyHzvJtE7psn5q0mgfveR5ifxGUiwzvUSAAynmWx02b/VXBDiQYr7qGuHdSLFA92n52y4GyLCI8G42MUCO70jvhxRLLCO9H1IsMT1GfEGKZerNnxtGKZaaNrvIMKXP6KPA/D1mdhsdlKlPUvwFw0lQig/aSPEXtFL8Be99im/RoNBw3d1Eg0LDpbcU7zWZ/APWtUCnNuhQDAAAAABJRU5ErkJggg=="
+            preserveAspectRatio="none" id="img1"></image>
+        <clipPath id="clip2">
+            <path d="M0 993.309 57.8961 993.309 57.8961 1034.31 0 1034.31Z" fill-rule="evenodd" clip-rule="evenodd" />
+        </clipPath>
+        <clipPath id="clip3">
+            <path d="M0 734.265 40 734.265 40 778.657 0 778.657Z" fill-rule="evenodd" clip-rule="evenodd" />
+        </clipPath>
+    </defs>
+    <g clip-path="url(#clip0)" transform="translate(-135 -146)">
+        <path d="M136 147 188.876 147 255 147 225.26 266 188.876 266 136 266Z" fill="#ffffff" fill-rule="evenodd" />
+        <g clip-path="url(#clip2)" transform="matrix(1.0018 0 -0 1 153 -791.309)">
+            <use width="100%" height="100%" xlink:href="#img1" transform="scale(1.38277 1.38277)"></use>
+        </g>
+        <g clip-path="url(#clip3)" transform="matrix(1 0 -0 1.01368 182 -591.311)">
+            <use width="100%" height="100%" xlink:href="#img1" transform="scale(1.24082 1.24082)"></use>
+        </g>
+    </g>
+</svg>
